@@ -1,4 +1,4 @@
-# Flight-Price-Prediction-Project
+# ✈️ Flight Price Analysis & Prediction
 
 ## 📌 Project Overview
 This study analyzes flight booking data obtained from the **EaseMyTrip** website to discover valuable insights for potential passengers. The project involves comprehensive statistical hypothesis testing and utilizes **Linear Regression** to predict flight ticket prices based on various factors.
@@ -13,7 +13,8 @@ The primary aim of this study is to answer the following questions regarding fli
 
 ## 📊 Dataset & Methodology
 **Data Collection**
-* **Source:** Secondary data scraped from the EaseMyTrip website.
+* **Source:** [Flight Price Prediction Dataset](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction) on Kaggle.
+* **Original Source:** Scraped from the EaseMyTrip website.
 * **Tool Used:** Octoparse scraping tool.
 * **Scope:** Flight travel between **India's top 6 metro cities**.
 * **Timeline:** Data collected over 50 days, from **February 11th to March 31st, 2022**.
@@ -37,3 +38,7 @@ The cleaned dataset consists of **300,261 data points** and **11 features**. Bel
 | **Duration** | Total amount of time taken to travel between cities (in hours). | Continuous |
 | **Days Left** | Derived feature calculated by subtracting the trip date by the booking date. | Continuous |
 | **Price** | The target variable storing the ticket price. | Continuous |
+
+## 📜 Credits
+* **Dataset Author:** Shubham Bathwal (via Kaggle)
+* **Platform:** EaseMyTrip
