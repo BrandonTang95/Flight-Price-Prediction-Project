@@ -1,7 +1,5 @@
 # Flight-Price-Prediction-Project
 
-# ✈️ EaseMyTrip Flight Price Analysis & Prediction
-
 ## 📌 Project Overview
 This study analyzes flight booking data obtained from the **EaseMyTrip** website to discover valuable insights for potential passengers. The project involves comprehensive statistical hypothesis testing and utilizes **Linear Regression** to predict flight ticket prices based on various factors.
 
