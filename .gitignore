@@ -206,12 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Ignore Data
-*.csv
-*.xlsx
-*.json
-/data/
-
 # Ignore Jupyter Checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
