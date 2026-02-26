@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project analyzes flight booking data from India's top 6 metro cities to discover pricing insights and deploys a predictive machine learning model via a custom web application. What began as comprehensive exploratory data analysis (EDA) and statistical hypothesis testing evolved into a full-stack deployment. The final product utilizes an optimized **Random Forest** regression model served through a **Flask** backend, allowing users to input flight details and receive real-time price estimations.
 
+![Web App Interface](Flight Project.png)
+
 ## 🛠️ Tech Stack
 * **Backend:** Python, Flask
 * **Machine Learning:** Scikit-Learn, Pandas, NumPy, Joblib
